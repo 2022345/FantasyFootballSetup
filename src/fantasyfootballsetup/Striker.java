@@ -8,6 +8,6 @@ package fantasyfootballsetup;
  *
  * @author suele
  */
-public class Striker extends Player{
+public class Striker extends Player {
     
 }
